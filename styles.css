@@ -1037,7 +1037,7 @@ strong {
 
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(https://gitlab.com/r3yzia/ps4-overlay/-/blob/main/base_1.svg);
+    background: url(https://cdn.jsdelivr.net/gh/reideri/ps4-overlay/base_1.svg);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -1062,7 +1062,7 @@ strong {
 .ds4 .trigger {
     width: 99px;
     height: 100%;
-    background: url(https://gitlab.com/r3yzia/ps4-overlay/-/blob/main/triggers.svg);
+    background: url(https://cdn.jsdelivr.net/gh/reideri/ps4-overlay/triggers.svg);
     opacity: 0;
 }
 
@@ -1159,7 +1159,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(https://gitlab.com/r3yzia/ps4-overlay/-/blob/main/start.svg);
+    background: url(https://cdn.jsdelivr.net/gh/reideri/ps4-overlay/start.svg);
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -1194,7 +1194,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://gitlab.com/r3yzia/ps4-overlay/-/blob/main/face.svg);
+    background: url(https://cdn.jsdelivr.net/gh/reideri/ps4-overlay/face.svg);
 }
 
 .ds4 .button.pressed {
@@ -1234,7 +1234,7 @@ background-position: 0 -70px;
 
 .ds4 .stick {
     position: absolute;
-    background: url(https://gitlab.com/r3yzia/ps4-overlay/-/blob/main/sticks.svg);
+    background: url(https://cdn.jsdelivr.net/gh/reideri/ps4-overlay/sticks.svg);
     height: 94px;
     width: 94px;
 }
@@ -1266,7 +1266,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(https://gitlab.com/r3yzia/ps4-overlay/-/blob/main/dpad.svg);
+    background: url(https://cdn.jsdelivr.net/gh/reideri/ps4-overlay/dpad.svg);
     position: absolute;
 }
 
